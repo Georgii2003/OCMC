@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Programming\Learning\OCMC\Lab_3\№1\Source.cpp(57,16): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Programming\Learning\OCMC\Lab_3\№1\Source.cpp(58,16): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Programming\Learning\OCMC\Lab_3\№1\Source.cpp(59,16): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  №1.vcxproj -> C:\Programming\Learning\OCMC\Lab_3\№1\x64\Debug\№1.exe

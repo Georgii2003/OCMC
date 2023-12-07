@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt 
 import numpy as np 
 import math as mt
-#from shapely.geometry import LineString
+from shapely.geometry import LineString
 
 Pant_tx = 46 # Мощность передатчиков BS [дБм]
 num_sec = 3 # Число секторов на одной BS
@@ -36,8 +36,8 @@ c= 3*10**8 #[м/с] скорость света
 ytik = np.arange(0,200)
 '''
 Постройте зависимость величины входных потерь радиосигнала от
-#расстояния между приемником и передатчиком по всем трем описанным в п.2.2
-#моделям. Выберите нужную модель для заданных условий.
+расстояния между приемником и передатчиком по всем трем описанным в п.2.2
+моделям. Выберите нужную модель для заданных условий.
 '''
 #Модель UMiNLOS (Urban Micro Non-Line-of-Sight)
 
