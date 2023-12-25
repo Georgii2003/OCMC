@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Programming\Learning\OCMC\Lab5\Source.cpp(25,35): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Programming\Learning\OCMC\Lab5\Source.cpp(37,5): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Lab5.vcxproj -> C:\Programming\Learning\OCMC\Lab5\x64\Debug\Lab5.exe
